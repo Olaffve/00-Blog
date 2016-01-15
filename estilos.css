@@ -1,0 +1,45 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    width: 80%;
+    background-color: #0079BF;
+    color: white;
+}
+
+nav
+{
+    height: 30px;
+}
+nav li
+{
+    display: inline-block;
+}
+
+nav a
+{
+    text-decoration:  none;
+    color: white;
+}
+
+nav li:hover
+{
+    border-bottom: 2px solid white;
+}
+
+section
+{
+    width: 60%;
+    float: left;
+}
+
+aside
+{
+    width: 30%;
+    float: left;
+}
+
+footer
+{
+    clear: both;
+}
